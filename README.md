@@ -6,23 +6,23 @@ Proyek ini adalah implementasi lengkap dari Campus Portal menggunakan Laravel de
 
 ### Light Mode
 ![Home Page - Light Mode](screenshots/home-light.png)
-*Halaman Home dengan tampilan Light Mode - Navbar biru Undip, statistik, dan berita terbaru*
+<p align="center"><i>Halaman Home dengan tampilan Light Mode - Navbar biru Undip, statistik, dan berita terbaru</i></p>
 
 ![About Page - Light Mode](screenshots/about-light.png)
-*Halaman About dengan profil dosen dan informasi departemen*
+<p align="center"><i>Halaman About dengan profil dosen dan informasi departemen</i></p>
 
 ![Dashboard Page - Light Mode](screenshots/dashboard-light.png)
-*Halaman Dashboard dengan chart dan statistics cards*
+<p align="center"><i>Halaman Dashboard dengan chart dan statistics cards</i></p>
 
 ### Dark Mode
 ![Home Page - Dark Mode](screenshots/home-dark.png)
-*Halaman Home dengan Dark Mode aktif - Smooth transition dan styling yang konsisten*
+<p align="center"><i>Halaman Home dengan Dark Mode aktif - Smooth transition dan styling yang konsisten</i></p>
 
 ![About Page - Light Mode](screenshots/about-dark.png)
-*Halaman About dalam mode gelap dengan profil dosen dan informasi departemen*
+<p align="center"><i>Halaman About dalam mode gelap dengan profil dosen dan informasi departemen</i></p>
 
 ![Dashboard Page - Dark Mode](screenshots/dashboard-dark.png)
-*Dashboard dalam mode gelap dengan chart dan gradient cards*
+<p align="center"><i>Dashboard dalam mode gelap dengan chart dan gradient cards</i></p>
 
 ---
 
